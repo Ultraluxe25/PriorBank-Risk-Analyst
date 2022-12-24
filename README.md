@@ -1,1 +1,1 @@
-# PriorBank-Risk-Analyst
+# PriorBank Risk Analyst
